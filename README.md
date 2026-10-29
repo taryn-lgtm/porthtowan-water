@@ -10,6 +10,8 @@ An end-to-end data analytics project on sewage, rainfall and water quality, star
 
 Porthtowan is my local surf break. Its No2 pumping station storm overflow spilled 8 times in 2022, 27 times in 2023, 44 times in 2024 and 42 times in 2025, against South West Water's own target of no more than 10 a year by 2030 ([WaterFit Live](https://www.southwestwater.co.uk/porthtowan)). Surfers Against Sewage is based a few miles along the coast in St Agnes.
 
+On 7 September 2025, the English Interclub Surfing Championships at Porthtowan were called off with surfers mid-heat, after lifeguards red-flagged the beach for a sewage discharge ([Surfing England statement via Carve](https://www.carvemag.com/2025/09/english-interclubs-stopped-by-sewage/)). This project starts by rebuilding that day from the data.
+
 ## The three questions
 
 1. **Is it safe to go in today?** Bathing water E. coli and enterococci joined to overflow spills, rainfall and tide, with a model that flags a bad water day before the lab result lands.

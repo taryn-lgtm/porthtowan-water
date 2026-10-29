@@ -15,6 +15,13 @@ Porthtowan is a designated bathing water on Cornwall's north coast, served by So
 
 South West Water aims for each overflow at a bathing water to spill no more than 10 times a year by 2030.
 
+## Case study: 7 September 2025
+
+The English Interclub Surfing Championships at Porthtowan, with over 140 competitors, were called off mid-contest when lifeguards red-flagged the beach for a sewage discharge ([Surfing England statement via Carve](https://www.carvemag.com/2025/09/english-interclubs-stopped-by-sewage/)).
+
+- What happened in the data: rainfall in the days before, overflow spill timing, tide, and the nearest bathing water samples.
+- How unusual was it: how many days each season look like that one?
+
 ## Questions by chapter
 
 ### 1. Is it safe to go in today?
